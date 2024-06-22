@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @szczecinskaagata
+- 👀 I’m interested in sports, reading and spending time with my friends...
+- 🌱 I’m currently learning SQL and Power BI

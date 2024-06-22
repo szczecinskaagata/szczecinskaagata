@@ -1,0 +1,5 @@
+# Przewidywanie Decyzji o Zatrudnieniu na Podstawie Danych Rekrutacyjnych
+
+## Celem projektu jest analiza danych rekrutacyjnych i zbudowanie modelu predykcyjnego, który przewiduje decyzje o zatrudnieniu kandydatów
+na podstawie różnych czynników. 
+Projekt obejmuje import danych, przetwarzanie za pomocą SQL oraz wizualizację wyników w Power BI.

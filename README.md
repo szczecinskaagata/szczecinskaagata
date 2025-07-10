@@ -5,7 +5,7 @@ I'm learning by creating real-life projects and dashboards, and I'm passionate a
 On this GitHub, you’ll find my learning journey and personal data projects.  
 Let’s grow together — feel free to connect!
 
-🌱 Currently learning: SQL, Python, data storytelling  
+🌱 Currently learning: SQL, Python, Excel, data storytelling  
 📫 Reach me at: szczecinska.agata@vp.pl
 
 
